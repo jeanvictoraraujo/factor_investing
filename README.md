@@ -1,1 +1,3 @@
-# factor_investing
+# Factor Investing
+
+- Draft.
